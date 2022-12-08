@@ -15,8 +15,9 @@ public class KarafkaConsumerApplication {
 		SpringApplication.run(KarafkaConsumerApplication.class, args);
 	}
 	//@Bean
-	//public Consumer<String> cons(){
+	//public Consumer<String> consume(){
 	//    return value->System.out.println(); 
 	//}
 
-}
+
+	}
